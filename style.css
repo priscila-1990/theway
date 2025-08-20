@@ -9,7 +9,7 @@ body {
 	margin: 0 auto;
 	width: 854px;
 	height: 147px;
-  background-image: url('../images/b-sup.png');
+  background-image: url('b-sup.png');
 }
 .example {
 	position: relative;
@@ -319,7 +319,7 @@ pre {
 	margin: 0 auto;
 	width: 850px;
 	height: 54px;
-  background-image: url('../images/banner_infe.png');
+  background-image: url('banner_infe.png');
 }
 #caja{
   width: 518px;
@@ -1649,4 +1649,5 @@ margin-left:7%;}#cssmenu > ul {
 
 .invisible {
   visibility: inherit !important;
+
 }
